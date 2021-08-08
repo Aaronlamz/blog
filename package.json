@@ -7,6 +7,12 @@
     "start": "nuxt start"
   },
   "dependencies": {
+    "ant-design-vue": "^1.7.7",
     "nuxt": "^2.15.3"
+  },
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.1.0"
   }
 }
