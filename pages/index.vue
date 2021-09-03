@@ -1,3 +1,3 @@
 <template lang="pug">
-  h1 hello world
+  h1 hello Weblog
 </template>
